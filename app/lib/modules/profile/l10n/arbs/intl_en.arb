@@ -1,0 +1,7 @@
+{
+  "@@locale": "en",
+  "greeting": "Hello from Profile",
+  "@greeting": {
+    "description": "A greeting message from the profile module"
+  }
+}
