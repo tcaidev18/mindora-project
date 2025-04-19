@@ -14,8 +14,6 @@ class __SplashScreenBodyState extends State<_SplashScreenBody> {
 
   @override
   Widget build(BuildContext context) {
-    return Container(
-      child: Center(child: Text("Hello")),
-    );
+    return const Center(child: Text("Hello"));
   }
 }
