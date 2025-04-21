@@ -1,7 +1,0 @@
-{
-  "@@locale": "en",
-  "greeting": "Hello from Main",
-  "@greeting": {
-    "description": "A greeting message from the main module"
-  }
-}
