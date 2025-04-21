@@ -1,0 +1,3 @@
+[submodule "mindora-app"]
+	path = mindora-app
+	url = git@github-tcaidev18:tcaidev18/mindora-app.git
