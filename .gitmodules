@@ -1,3 +1,6 @@
 [submodule "mindora-app"]
 	path = mindora-app
 	url = git@github-tcaidev18:tcaidev18/mindora-app.git
+[submodule "mindora-backend"]
+	path = mindora-backend
+	url = git@github-tcaidev18:tcaidev18/mindora-backend.git
