@@ -1,0 +1,1 @@
+git submodule add git@github-tcaidev18:tcaidev18/mindora-backend.git mindora-backend
